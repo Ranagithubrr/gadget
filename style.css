@@ -1,0 +1,89 @@
+.my-nav{
+    margin-left:auto;
+}
+.logo-img{
+    width:70%;
+}
+.buy-now-btn{
+    background:#000;
+    color:#fff;
+    padding:6px 12px;
+    border:none;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+.carousel-indicators button div{
+    height:5px !important;
+    width:10px !important;
+    background:#FFC71E !important;
+    border-radius:10px;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -ms-border-radius:10px;
+    -o-border-radius:10px;
+    transition:0.5s ease-in-out;
+    -webkit-transition:0.5s ease-in-out;
+    -moz-transition:0.5s ease-in-out;
+    -ms-transition:0.5s ease-in-out;
+    -o-transition:0.5s ease-in-out;
+    margin:0 auto;
+}
+.carousel-indicators .active div{
+    width:30px !important;
+}
+.see-all{
+    text-align:right;
+}
+.see-all a{
+    text-decoration:none;
+    font-size:13px;
+    font-weight:500;
+    color:#FFC71E;
+}
+.see-all a:hover{
+    text-decoration:underline;
+   
+}
+.phone-card{
+    border-radius:5px;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+    border:none;
+    box-shadow:2px 2px 25px #aca9a9;
+}
+.phone-card img{
+    width:70%;
+    margin:0 auto;
+}
+#category .heading h3{
+    font-size:25px;
+    font-weight:500;
+    color:#000;
+    text-align:center;
+}
+#category .heading div{
+    height:5px;
+    width:80px;
+    background:linear-gradient(to right, #ffc220,#ff9c35);
+    margin:10px auto;
+    border-radius:10px;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -ms-border-radius:10px;
+    -o-border-radius:10px;
+}
+#category .card-box{
+    box-shadow:2px 2px 25px #aca9a9;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+    padding: 10px;
+    margin:10px;
+}
